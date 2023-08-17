@@ -1,0 +1,21 @@
+ {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 7px 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align: center;
+
+}
+
+
+body {
+    background-color: aqua;
+    background-repeat: repeat;
+    background-attachment: fixed; 
+    border-style: solid;
+    border-color: rgb(65, 11, 239);
+}
+
+#Size {
+    background-color: lightgreen;
+    color: blue;
+} 
